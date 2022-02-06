@@ -18,7 +18,7 @@ Clone the repository from GitHub. The application requires Express.js, MongoDB a
 ## Usage
 This app will allow users to create, read, update and delete items from the backend of an social network API. <br>
 
-View the Routes/Server and User Routes walkthrough of this application on [Screencastify]()<br>
+View the Routes/Server and User Routes walkthrough of this application on [Screencastify](https://watch.screencastify.com/v/uCMD2ZWS6m00uJzob06t)<br>
 View the Insomnia walkthrough of the Reaction and Friend routes on [Screencastify](https://watch.screencastify.com/v/vwNR6yrp2vJyNz3th0tX)<br>
 View the Insomnia walkthrough of the User and Thoughts routes [Screencastify](https://watch.screencastify.com/v/hTCxo3sWaGv3nP650TDw)<br>
 
