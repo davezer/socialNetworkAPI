@@ -11,8 +11,7 @@ app.use(express.static('public'));
 app.use(require('./routes'));
 
 // tell mongoose which database to connect to
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/socialNetworkAPI', {
-    useFindAndModify: false,
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1/socialNetworkAPI', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
